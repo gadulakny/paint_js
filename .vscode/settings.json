@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "launch": {
+
+
+        "configurations": [],
+        "compounds": []
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.prettier": true,
+    }
+}
